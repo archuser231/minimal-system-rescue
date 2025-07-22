@@ -3,7 +3,7 @@ a minimal arch build to rescue your system.
 System_Rescue By AdmB_PWR
 
 
--Frist to boot in the cd or usb (usb not included sorry) press the bios button on your computer when you power it on (bios button can be Esc,f1,f2,f8,f9,f10,f11,f12,Delete,or on your boot screen you see the button or it's written press enter to interupt normal boot) after select your cd/dvd drive and set it t the top of the list and press f10, if you're only in a boot selector just higlight the cd/dvd drive then press enter.
+-Frist to boot in the cd or usb (usb not included sorry) press the bios button on your computer when you power it on (bios button can be Esc,f1,f2,f8,f9,f10,f11,f12,Delete,or on your boot screen you see the button where it's written press enter to interupt normal boot) after select your cd/dvd drive and set it t the top of the list and press f10, if you're only in a boot selector just higlight the cd/dvd drive then press enter.
 
 -2 Wait the cd to boot and the text and error on your screen are normal and can be helpful if the program can't boot correctly.
 
@@ -11,7 +11,7 @@ System_Rescue By AdmB_PWR
 |
 |__> commands : for changing directory you need to type ex: cd home or cd /home  and if you need to go to the previous directory type [cd..] . After you will want to search for what are the other directory or file in the current directory you'll type : ls.
 |
-|___> Now you found a file called menu.sh this file is the semi graphical menu  to run it you'll need to type [chmod +x] to make it executable after you'll run it with [./menu.sh].
+|___> Now you found a file called menu.sh this file is the semi graphical menu  to run it you'll need to type [chmod +x menu.sh] to make it executable after you'll run it with [./menu.sh].
 
 -4 You're in the menu now you can see the categories and the programs now you'll see that when you try to run a program it dosen't work and say (press enter to go to the menu) that's because when you run a program the program need option that aren't defined when you simply run it with enter and that's why in the menu there's a category called command line now that you pressed enter on a program that didn't worked it's written ex:  (fdisk --help) now knowing that go on the command line option press enter and type the command to execute the program and know his option.
 
