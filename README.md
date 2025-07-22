@@ -1,5 +1,5 @@
 # minimal-system-rescue
-a minimal arch build to rescue your system
+a minimal arch build to rescue your system.
 System_Rescue By AdmB_PWR
 
 
