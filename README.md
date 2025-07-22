@@ -3,6 +3,9 @@ a minimal arch build to rescue your system.
 System_Rescue By AdmB_PWR
 
 
+[edit]: IDK why I can't upload my iso but you can download it via SourceForge by typing minimal-system-rescue or by copying the link : https://sourceforge.net/projects/minimal-system-rescue/
+
+  
 -Frist to boot in the cd or usb (usb not included sorry) press the bios button on your computer when you power it on (bios button can be Esc,f1,f2,f8,f9,f10,f11,f12,Delete,or on your boot screen you see the button where it's written press enter to interupt normal boot) after select your cd/dvd drive and set it t the top of the list and press f10, if you're only in a boot selector just higlight the cd/dvd drive then press enter.
 
 -2 Wait the cd to boot and the text and error on your screen are normal and can be helpful if the program can't boot correctly.
