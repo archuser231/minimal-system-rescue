@@ -12,7 +12,7 @@ minimal-system-rescue By AdmB_PWR @ thinkpad-ultra7
 
 -2 Wait the cd to boot and the text on your screen is normal and can be helpful if the program can't boot correctly.
 
-[edit]: In the 2.0 release you only need to do chmod +x menu.sh and run it wiht ./menu.sh (if I remember). The next steps are for the 1.0 version.
+[edit]: In the 2.0 release you only need to do chmod +x menu.sh and run it wiht ./menu.sh (if I remember). The next steps until 5 and the rest are for 1.0.
 
 -3 Now you're in the cd to go in the semi graphical menu yout need to go in a specific directory so you wil type: cd /usr/local/share/bin or cd /usr/local/bin I don't remeber but i'll give you commands to find it.
 |
